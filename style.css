@@ -1,0 +1,10 @@
+/* 1. Body background and default typography */
+body {
+    background-color:#bb638e; Soft, light neutral background */
+    font-family: Georgia;
+    color: #333333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px; /* Breathing room around the edges of the viewport */
+}
+/* 2. 
