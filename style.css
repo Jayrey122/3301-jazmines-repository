@@ -5,7 +5,7 @@
 
 /* 1. Body background and default typography */
 body {
-    background-color: #bb638e; /* Soft, light neutral background */
+    background-color: #5a6564; /* Soft, light neutral background */
     font-family: 'Helvetica';
     color: #5a6564;
     line-height: 1.6;
@@ -16,7 +16,7 @@ body {
 /* 2. Main heading styling */
 h1 {
     font-family: Georgia;
-    color: #232d2c; /* TTU Navy / Professional Accent */
+    color: #bb638e; /* TTU Navy / Professional Accent */
     margin-bottom: 10px;
 }
 
