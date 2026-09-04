@@ -1,10 +1,58 @@
+/* ==========================================================================
+   Assignment 02: Base Styling & Typography
+   CMPA 3301 - Fundamentals of Computing Applications
+   ========================================================================== */
+
 /* 1. Body background and default typography */
 body {
-    background-color:#bb638e; Soft, light neutral background */
-    font-family: Georgia;
-    color: #333333;
+    background-color: #bb638e; /* Soft, light neutral background */
+    font-family: 'Helvetica';
+    color: #5a6564;
     line-height: 1.6;
     margin: 0;
     padding: 20px; /* Breathing room around the edges of the viewport */
 }
-/* 2. 
+
+/* 2. Main heading styling */
+h1 {
+    font-family: Georgia;
+    color: #232d2c; /* TTU Navy / Professional Accent */
+    margin-bottom: 10px;
+}
+
+/* 3. Subheading styling */
+h2 {
+    font-family: Georgia;
+    color: #232d2c; /* TTU Navy / Professional Accent */
+    margin-top: 20px;
+    margin-bottom: 12px;
+}
+
+/* 4. Paragraph styling */
+p {
+    font-family: Georgia;
+    color: #8d846a;
+    font-size: 1rem;
+    margin-bottom: 16px;
+    max-width: 750px; /* Improves readability across wide monitors */
+}
+
+/* 5. List and link styling */
+ul {
+    margin-bottom: 20px;
+    padding-left: 24px;
+}
+
+li {
+    margin-bottom: 6px;
+}
+
+a {
+    color: #cdbeb2; /* TTU Scarlet Accent */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
