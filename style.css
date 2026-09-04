@@ -5,7 +5,7 @@
 
 /* 1. Body background and default typography */
 body {
-    background-color: #5a6564; /* Soft, light neutral background */
+    background-color: #8d846a; /* Soft, light neutral background */
     font-family: 'Helvetica';
     color: #5a6564;
     line-height: 1.6;
@@ -31,7 +31,7 @@ h2 {
 /* 4. Paragraph styling */
 p {
     font-family: Georgia;
-    color: #8d846a;
+    color: #5a6564; /* Soft, light neutral text color */
     font-size: 1rem;
     margin-bottom: 16px;
     max-width: 750px; /* Improves readability across wide monitors */
