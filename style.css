@@ -5,9 +5,9 @@
 
 /* 1. Body background and default typography */
 body {
-    background-color: #a3beb7; /* Soft, light neutral background */
+    background-color: #d2eae3; /* Soft, light neutral background */
     font-family: 'Helvetica';
-    color: #e2e0d3;
+    color: #3f3e38;
     line-height: 1.6;
     margin: 0;
     padding: 20px; /* Breathing room around the edges of the viewport */
@@ -16,7 +16,7 @@ body {
 /* 2. Main heading styling */
 h1 {
     font-family: Georgia;
-    color: #f07b93; /* TTU Navy / Professional Accent */
+    color: #e35874; /* TTU Navy / Professional Accent */
     margin-bottom: 10px;
 }
 
@@ -48,7 +48,7 @@ li {
 }
 
 a {
-    color: #aabd2f; /* TTU Scarlet Accent */
+    color: #616451; /* TTU Scarlet Accent */
     text-decoration: none;
     font-weight: bold;
 }
