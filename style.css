@@ -7,7 +7,7 @@
 body {
     background-color: #f2b3ed; /* Soft, light neutral background color */
     font-family: 'Helvetica';
-    color: #4a4255;
+    color: #c6238d; /* Soft, light neutral text color */
     line-height: 1.6;
     margin: 0;
     padding: 20px; /* Breathing room around the edges of the viewport */
@@ -23,7 +23,7 @@ h1 {
 /* 3. Subheading styling */
 h2 {
     font-family: Georgia;
-    color: #c6238d; /* TTU Navy / Professional Accent */
+    color: #4a4a4a; /* TTU Navy / Professional Accent */
     margin-top: 20px;
     margin-bottom: 12px;
 }
