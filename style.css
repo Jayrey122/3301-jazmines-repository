@@ -23,7 +23,7 @@ h1 {
 /* 3. Subheading styling */
 h2 {
     font-family: Georgia;
-    color: #141313; /* TTU Navy / Professional Accent */
+    color: #c6238d; /* TTU Navy / Professional Accent */
     margin-top: 20px;
     margin-bottom: 12px;
 }
@@ -31,7 +31,7 @@ h2 {
 /* 4. Paragraph styling */
 p {
     font-family: Georgia;
-    color: #f553bc; /* Soft, light neutral text color */
+    color: #c6238d; /* Soft, light neutral text color */
     font-size: 1rem;
     margin-bottom: 16px;
     max-width: 750px; /* Improves readability across wide monitors */
