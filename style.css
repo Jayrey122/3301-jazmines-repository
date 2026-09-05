@@ -10,7 +10,7 @@ body {
     color: #c6238d; /* Soft, light neutral text color */
     line-height: 1.6;
     margin: 0;
-    padding: 20px; /* Breathing room around the edges of the viewport */
+    padding: 35px; /* Breathing room around the edges of the viewport */
 }
 
 /* 2. Main heading styling */
@@ -40,7 +40,7 @@ p {
 /* 5. List and link styling */
 ul {
     margin-bottom: 20px;
-    padding-left: 24px;
+    padding-left: 35px;
 }
 
 li {
@@ -65,7 +65,7 @@ div {
     height: 120px;                  /* Content height */
     background-color: #c6238d;       /* Soft gold/yellow fill */
     border: 3px solid #4a4a4a;       /* Noticeable solid border */
-    padding: 20px;                  /* Internal space between text and border */
+    padding: 35px;                  /* Internal space between text and border */
     margin: 30px auto;              /* External space; 'auto' centers the box horizontally */
     
     /* Optional enhancements for polish */
