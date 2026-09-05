@@ -5,9 +5,9 @@
 
 /* 1. Body background and default typography */
 body {
-    background-color: #e0d5ce; /* Soft, light neutral background color */
+    background-color: #dd3232; /* Soft, light neutral background color */
     font-family: 'Helvetica';
-    color: #56979d;
+    color: #f2f9f9;
     line-height: 1.6;
     margin: 0;
     padding: 20px; /* Breathing room around the edges of the viewport */
@@ -16,14 +16,14 @@ body {
 /* 2. Main heading styling */
 h1 {
     font-family: Georgia;
-    color: #56979d; /* TTU Navy / Professional Accent */
+    color: #f2f9f9; /* TTU Navy / Professional Accent */
     margin-bottom: 10px;
 }
 
 /* 3. Subheading styling */
 h2 {
     font-family: Georgia;
-    color: #564b42; /* TTU Navy / Professional Accent */
+    color: #f2f9f9; /* TTU Navy / Professional Accent */
     margin-top: 20px;
     margin-bottom: 12px;
 }
@@ -48,7 +48,7 @@ li {
 }
 
 a {
-    color: #75805c; /* TTU Scarlet Accent */
+    color: #f08888; /* TTU Scarlet Accent */
     text-decoration: none;
     font-weight: bold;
 }
