@@ -31,7 +31,7 @@ h2 {
 /* 4. Paragraph styling */
 p {
     font-family: Georgia;
-    color: #564b42; /* Soft, light neutral text color */
+    color: #141313; /* Soft, light neutral text color */
     font-size: 1rem;
     margin-bottom: 16px;
     max-width: 750px; /* Improves readability across wide monitors */
